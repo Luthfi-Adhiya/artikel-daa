@@ -171,5 +171,3 @@ Kita bisa melihat bahwa **semakin banyak jumlah input yang diberikan, maka waktu
 Sebagai _programmer_, kita sering kali dihadapkan dengan adanya beberapa solusi untuk sebuah permasalahan dan kita dibingungkan dengan pertanyaan ***“mana solusi yang lebih efisien?”.***
 
 Dengan memahami **Big-O Notation**, kita akan lebih mudah dalam melihat mana algoritma yang lebih efisien yang bisa kita gunakan untuk menyelesaikan permasalahan yang sedang dihadapi.
-
-sad
