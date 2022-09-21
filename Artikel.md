@@ -172,3 +172,4 @@ Sebagai _programmer_, kita sering kali dihadapkan dengan adanya beberapa solusi 
 
 Dengan memahami **Big-O Notation**, kita akan lebih mudah dalam melihat mana algoritma yang lebih efisien yang bisa kita gunakan untuk menyelesaikan permasalahan yang sedang dihadapi.
 
+sad
